@@ -1,5 +1,5 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Rajkumar 
-a recent (2022) graduate from the [California State University, Fresno](https://www.fresnostate.edu/). I'm a Machine Learning Engineer/Data Scientist with over two years of experience working in fast-scaling & high-performance teams.
+Current (2022) graduate from the [California State University, Fresno](https://www.fresnostate.edu/). I'm a Machine Learning Engineer/Data Scientist with over two years of experience working in fast-scaling & high-performance teams.
 
 Currently, I am working as a Business Analyst Intern at Caro Nut Company aiming to build a platform to help the management with business insights to increase the business performance. I have also recently worked as a Data Scientist at Educational and Social Research Organisation and at SPI Private Limited as a Data Analyst Intern. I have a Bachelor of Engineering degree in Electronics & Communication Engineering from the [Anna University](https://www.annauniv.edu/nwsnew).
 
