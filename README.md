@@ -8,5 +8,5 @@ I'm super enthusiastic about learning new technologies and how these can be best
 Oh, and also, I'm a sports buff and a HUGE F1 Formula fan. Hit me up if you want to talk sports, machine learning, data science, or anything fun in life! :)
 
 I love connecting with new people
-I can also be reached over by email: rajkumarerrakutti@gmail.com
+I can also be reached over by email: rajerrasiva@gmail.com
 
