@@ -1,5 +1,5 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Rajkumar 
-I'm a Data Scientist with 1.7+ years of hands-on experience building machine learning models, automating data pipelines, and deploying real-time solutions at scale using Python, SQL, AWS, and GCP.
+I'm a Data Scientist with 2+ years of hands-on experience building machine learning models, automating data pipelines, and deploying real-time solutions at scale using Python, SQL, AWS, and GCP.
 
 I am currently working at Neoware Technology Solutions, where I led end-to-end projects for a European electric vehicle company—developing XGBoost and LSTM models for predictive maintenance, and deploying them using FastAPI, Flask, and Docker on cloud platforms like AWS and GCP. I've also optimized BI reporting systems using Redshift, MSSQL, and Apache Airflow, reducing manual work by 90% and accelerating insights delivery.
 
