@@ -1,13 +1,29 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Rajkumar 
-I'm a Data Scientist with 2+ years of hands-on experience building machine learning models, automating data pipelines, and deploying real-time solutions at scale using Python, SQL, AWS, and GCP.
+💼 Data Scientist with 2+ years of hands-on experience building and deploying ML, GenAI, and MLOps solutions on GCP and Azure using Python and SQL.
 
-I am currently working at Neoware Technology Solutions, where I led end-to-end projects for a European electric vehicle company—developing XGBoost and LSTM models for predictive maintenance, and deploying them using FastAPI, Flask, and Docker on cloud platforms like AWS and GCP. I've also optimized BI reporting systems using Redshift, MSSQL, and Apache Airflow, reducing manual work by 90% and accelerating insights delivery.
+🚗 Currently at Neoware Technology Solutions, working on end-to-end ML systems for a European EV company:
 
-I hold an MBA in Data Analytics from California State University, Fresno and a Bachelor’s in Electronics & Communication Engineering from Anna University. I enjoy working on projects that combine real-world impact with scalable machine learning systems.
+Built XGBoost, RNN, and LSTM models for predictive maintenance
 
-I'm always curious about new tools, open-source models, and emerging tech in GenAI and Agentic AI. Currently diving deeper into recommendation systems and transformer-based architectures.
+Achieved 84% failure reduction and €387K annual savings across 350+ EV chargers
 
-Outside of work? I'm a total sports buff and a huge Formula 1 fan. 🏎️
-Let’s chat about machine learning, data science, sports, or life in general!
+Deployed scalable APIs using FastAPI, Docker, and Vertex AI
 
-📫 You can reach me at rajerrasiva@gmail.com.
+🤖 Built LLM & Agentic AI systems for automated SQL generation, insights, and dashboards, improving accuracy from 80% → 98%.
+
+⚙️ Automated 20+ data & risk pipelines using Airflow, SQL, and cloud services, reducing manual effort by 90%.
+
+🎓 MBA (Data Analytics) — California State University, Fresno
+🎓 B.E. Electronics & Communication — Anna University
+
+🧠 Interested in:
+
+Generative AI & Agentic AI
+
+LLMs, RAG pipelines & Transformers
+
+Scalable ML systems & MLOps
+
+🏎️ Fun fact: Big Formula 1 fan & sports enthusiast
+
+📫 Reach me: rajerrasiva@gmail.com
